@@ -1,51 +1,31 @@
-<h1>JWipe - Disk Sanitization</h1>
-
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
+<h1>Google IT Support Certifications</h1>
 
 <h2>Description</h2>
-Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
-<br />
+The Google IT Support Certification gave me a comprehensive understanding of IT fundamentals. I dove into everything from hardware and software setup to troubleshooting and network management. I got hands-on with key technologies like modems, switches, routers, and hubs, and learned how to configure and maintain different OS platforms like Windows, Mac, and Linux. I also explored networking concepts like IP addressing, DNS, and DHCP, as well as the basics of cybersecurity, including firewalls and encryption. Plus, I gained experience with PowerShell commands for automation and scripting, and tackled real-world support scenarios that covered everything from OS installations to diagnosing connectivity issues. It was a deep dive into the tools, protocols, and best practices that make IT support tick.
+<br/>
+<br>
 
+![CERTIFICATE_LANDING_PAGE~MHXO4GJ3CMPR](https://github.com/user-attachments/assets/8a1126bb-ef21-443b-9338-e7cefaac9281)
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>PowerShell</b> 
-- <b>Diskpart</b>
+- <b>PowerShell Basic Commands</b> 
+- <b>Linux Basic Commands</b>
 
 <h2>Environments Used </h2>
 
-- <b>Windows 10</b> (21H2)
+- <b>Windows Versions</b>
+- <b>Linux</b>
+- <b>Mac OS</b> 
 
-<h2>Program walk-through:</h2>
+<h2>Key Developed Skills</h2>
 
-<p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+- <b>Hardware Troubleshooting & Repair</b>
+- <b>Software Installation & Configuration</b>
+- <b>Networking & Connectivity</b>
+- <b>Cybersecurity Fundamentals</b>
+- <b>System Administration</b>
+- <b>Troubleshooting & Diagnostics</b>
 
 <!--
  ```diff
