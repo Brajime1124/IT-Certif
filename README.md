@@ -16,7 +16,8 @@ The Google IT Support Certification gave me a comprehensive understanding of IT 
 
 - <b>Windows Versions</b>
 - <b>Linux</b>
-- <b>Mac OS</b> 
+- <b>Mac OS</b>
+- <b>Mobile</b> 
 
 <h2>Key Developed Skills</h2>
 
